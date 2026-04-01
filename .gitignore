@@ -1,0 +1,5 @@
+node_modules/
+.next/
+*.Zone.Identifier
+.env*.local
+.claude/
